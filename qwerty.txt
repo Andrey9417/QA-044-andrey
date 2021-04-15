@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ergrgerg ergerg ergerge
+=======
+dsfdsfe
+dfd1ergrgerg ergerg ergerge
+>>>>>>> 17d0a3583ea9088d64e934b887a64184c7745bb7
